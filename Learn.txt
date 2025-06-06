@@ -1,0 +1,13 @@
+Learning GO
+
+## manage git:
+1. git init 
+2. git add. 
+3. git commit -m "description"
+4. git remote add origin https://github.com/Muelokorphae/LearnGO.git
+5. git push origin main
+
+## set up to GO project connent to MySql:
+1. go mod init github.com/Muelokorphae/Repo_name.git
+2. go get -u github.com/go-sql-driver/mysql
+
